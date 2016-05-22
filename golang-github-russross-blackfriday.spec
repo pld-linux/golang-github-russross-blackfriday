@@ -6,12 +6,12 @@
 %define		pkgname		blackfriday
 Summary:	Markdown processor implemented in Go
 Name:		golang-github-russross-%{pkgname}
-Version:	1.2
+Version:	1.4
 Release:	1
 License:	BSD
 Group:		Libraries
 Source0:	https://github.com/russross/blackfriday/archive/v%{version}/blackfriday-%{version}.tar.gz
-# Source0-md5:	e06be10cbdddbf5d8ddf68f5a9d98622
+# Source0-md5:	e66233912216753cc1b39875b81b74e2
 URL:		https://github.com/russross/blackfriday
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
