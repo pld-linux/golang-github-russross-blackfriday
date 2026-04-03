@@ -7,7 +7,7 @@
 Summary:	Markdown processor implemented in Go
 Name:		golang-github-russross-%{pkgname}
 Version:	1.4
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries
 Source0:	https://github.com/russross/blackfriday/archive/v%{version}/blackfriday-%{version}.tar.gz
